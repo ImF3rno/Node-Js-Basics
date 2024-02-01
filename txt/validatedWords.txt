@@ -1,0 +1,9 @@
+WebAssembly
+abbreviated
+instruction
+stack-based
+compilation
+programming
+languages,
+deployment
+applications.
